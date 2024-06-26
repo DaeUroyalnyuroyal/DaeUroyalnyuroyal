@@ -1,7 +1,7 @@
 # Hi there, I'm Seo-Bin Hong! 👋❤️
 
 
-![Header Image](https://via.placeholder.com/800x200)
+![Header Image]("C:\Users\User\Desktop\p.png")
 
 ## About Me
 
@@ -39,11 +39,7 @@
 
 ## Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourname)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Blog:** [yourblog.com](https://yourblog.com)
+- **Email:** dbwls90039@naver.com
+- **LinkedIn:** [박유진](https://www.linkedin.com/in/dbwls90039@naver.com)
 
 ---
-
-*이 프로필은 [홍서빈](https://github.com/hsbbsh)이 ❤️를 담아 작성했습니다.*
