@@ -33,6 +33,5 @@
 ## Contact
 
 - **Email:** dbwls90039@naver.com
-- **LinkedIn:** [박유진](https://www.linkedin.com/in/dbwls90039@naver.com)
 
 ---
