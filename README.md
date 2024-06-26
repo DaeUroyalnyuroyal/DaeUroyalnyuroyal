@@ -30,10 +30,6 @@
   - 한국어 인식 가능
   - 한국어랑 영어를 동시에 읽는 경우! 단, 한국어의 인식률이 떨어짐 (ex, 티켓 -> EI켓)
 
-## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## Contact
 
 - **Email:** dbwls90039@naver.com
