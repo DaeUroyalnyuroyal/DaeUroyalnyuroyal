@@ -1,4 +1,4 @@
-![Header Image]("C:\Users\User\Desktop\p.png")
+![Header Image](./p.png)
 
 ## About Me
 
