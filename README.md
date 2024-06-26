@@ -1,6 +1,3 @@
-# Hi there, I'm Seo-Bin Hong! 👋❤️
-
-
 ![Header Image]("C:\Users\User\Desktop\p.png")
 
 ## About Me
