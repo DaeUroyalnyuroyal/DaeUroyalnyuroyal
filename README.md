@@ -14,7 +14,7 @@
 
 ### [음식점 추천프로그램](https://github.com/DaeUroyalnyuroyal/Algorithm245/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
 
-- **Production date:** 2024.06.01
+- **date:** 2024.06.01
 - **Description:** 음식점 추천프로그램으로 사용자가 지정한 위치에서 카테고리를 선택 후 가까운순으로 추천한다.
 - **Tech Stack:** 파이썬(알고리즘: 다익스트라 알고리즘, 우선순위 큐 알고리즘)
 - **Highlights:**
@@ -23,6 +23,7 @@
 
 ### [OCR이용한글자인식](https://github.com/DaeUroyalnyuroyal/Algorithm245/blob/main/%EC%84%B8%EB%AF%B8%EB%82%98/OCR%EC%9D%B4%EC%9A%A9%ED%95%9C%EA%B8%80%EC%9E%90%EC%9D%B8%EC%8B%9D.ipynb)
 
+**date:** 2024.05.16
 - **Description:** OCR이용해 사진 속 글자를 인식하여 출력해준다. 
 - **Tech Stack:** 사용된 주요 기술들 (예: Python, Django, PostgreSQL)
 - **Highlights:**
